@@ -1,0 +1,51 @@
+body{
+    background-color: skyblue;
+}
+
+
+.main-container{
+    margin: auto;
+    width: 600px;
+    height: auto;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 10px ;
+}
+
+.heading{
+    background-color: white;
+    color:purple;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+.input-box{
+    display: inline-block;
+    margin: 20px 10px;
+    color: skyblue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+label{
+    display: block;
+}
+
+button{
+    background-color: skyblue;
+    color: aliceblue;
+    height: 50px;
+    width: 150px;
+    margin: 20px auto;
+    margin-left: 230px;
+    border: none;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+input{
+    height: 50px;
+    border: 2px solid blue;
+    padding-left: 5%;
+    margin-top: 10px;
+}
